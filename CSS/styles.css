@@ -1,0 +1,58 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-size: 100%;
+  font-family: 'Mukta', sans-serif;
+}
+
+h1 {
+  margin: 0;
+  font-size: 5.625rem;
+  font-family: 'Oswald', sans-serif;
+}
+
+img {
+  background-color: #e3fdfd;
+}
+
+.atas {
+  background-size: cover;
+  background-color: #e3fdfd;
+  position: relative;
+  padding-top: 100px;
+}
+
+.tengah {
+  background-color: #dcffcc;
+}
+
+.bawah {
+  background-color: #75daad;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 450px;
+  top: 50px;
+}
+
+.botom-cloud {
+  position: absolute;
+  left: 450px;
+  bottom: 300px;
+}
+
+.logo {
+  position: absolute;
+  left: 250px;
+}
+
+.back {
+  font-size: 200%;
+  position: absolute;
+  left: 1200px;
+}
+
+.kegiatan{
+  background-color: #dcffcc
+}
