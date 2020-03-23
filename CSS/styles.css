@@ -2,57 +2,55 @@ body {
   margin: 0;
   text-align: center;
   font-size: 100%;
-  font-family: 'Mukta', sans-serif;
+  font-family: 'Marvel', sans-serif;
 }
 
 h1 {
   margin: 0;
   font-size: 5.625rem;
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Ultra', serif;
+}
+
+h2 {
+  font-family: 'Reem Kufi', sans-serif;
 }
 
 img {
-  background-color: #e3fdfd;
+  background-color: #EAF6F6;
 }
 
 .atas {
   background-size: cover;
-  background-color: #e3fdfd;
+  background-color: #EAF6F6;
   position: relative;
   padding-top: 100px;
 }
 
-.tengah {
-  background-color: #dcffcc;
-}
-
-.bawah {
-  background-color: #75daad;
+.bawah{
+  background-color: #66BFBF;
+  position: absolute;
+  width: 100%;
 }
 
 .top-cloud {
   position: absolute;
-  right: 450px;
+  right: 80px;
   top: 50px;
 }
 
 .botom-cloud {
   position: absolute;
-  left: 450px;
+  left: 90px;
   bottom: 300px;
 }
 
 .logo {
   position: absolute;
-  left: 250px;
+  left: 50px;
 }
 
 .back {
   font-size: 200%;
   position: absolute;
   left: 1200px;
-}
-
-.kegiatan{
-  background-color: #dcffcc
 }
